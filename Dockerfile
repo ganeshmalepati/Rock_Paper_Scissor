@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY . /app
 
-CMD ["python", "p_12.py"]
+CMD ["python", "Rock_Paper_Scissor.py"]
